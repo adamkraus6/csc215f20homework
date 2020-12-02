@@ -8,7 +8,6 @@ CSC 215: Programming Techniques
 
 m0010 - Bitwise, Enums, and Typedefs
 
-
 m0021 - 2D Dynamic Allocation
 
 m0030 - Trim C strings and C++ strings
