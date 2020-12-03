@@ -4,6 +4,8 @@
 
 CSC 215: Programming Techniques
 
+Fall 2020 Homework Repository
+
 ## Projects:
 
 m0010 - Bitwise, Enums, and Typedefs
